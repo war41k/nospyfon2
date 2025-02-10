@@ -1,0 +1,5 @@
+{
+    "virus_scanner_api_key": "",
+    "backup_directory": "~/backups/",
+    "apk_scanner_path": "/usr/bin/apktool"
+}
